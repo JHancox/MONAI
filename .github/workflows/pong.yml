@@ -1,4 +1,4 @@
-name: Remote Dispatch Action Responder
+name: pong
 
 on: [repository_dispatch]
 
